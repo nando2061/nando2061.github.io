@@ -31,3 +31,7 @@ p{
     left: 16px;
     font-size: 18px;
 }
+
+:root {
+    font-size: 16px;
+}
