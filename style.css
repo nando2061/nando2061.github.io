@@ -1,0 +1,50 @@
+#divbovenin 
+{
+	width:100%;
+	display:flex;
+	align-content: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.blok 
+{
+	display:inline-block;
+	width:90%;
+	height:4000px;
+	color:white;
+	margin:20px;
+    background-color: black;
+}
+.mogus {
+    margin: 5%;
+    width: 90%;
+    aspect-ratio: 3/2;
+    background-color: rgb(132, 132, 132);
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+.blockParent{
+    margin: 0;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.block{
+    margin: 2.5%;
+    width: 50%;
+    aspect-ratio: 3/2;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    background-color: black;
+    border-radius: 20px;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
