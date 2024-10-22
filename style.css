@@ -46,5 +46,10 @@
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid white;
+    color: white;
+}
+
+h1, p {
+    color: white;
 }
