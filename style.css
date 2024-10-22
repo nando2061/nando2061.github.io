@@ -46,10 +46,6 @@
 }
 
 table, th, td {
-    border: 1px solid white;
-    color: white;
-}
-
-h1, p {
-    color: white;
+    border: 1px solid rgb(156 184 196);
+    color: rgb(156 184 196);
 }
