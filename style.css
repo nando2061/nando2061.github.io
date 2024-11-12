@@ -45,6 +45,19 @@
     justify-content: center;
 }
 
+.block2{
+    margin: 2.5%;
+    width: calc(100%/3);
+    aspect-ratio: 3/2;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    background-color: rgb(70, 70, 70);
+    border-radius: 20px;
+    align-items: flex-end;
+    justify-content: center;
+}
+
 table, th, td {
     border: 1px solid rgb(156 184 196);
     color: rgb(156 184 196);
@@ -54,7 +67,7 @@ p {
     color: rgb(252 211 77);
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center; 
     color: rgb(156 184 196);
