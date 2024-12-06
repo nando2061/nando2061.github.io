@@ -27,7 +27,7 @@
 }
 .blockParent{
     margin: 0;
-    width: 80%;
+    width: 90%;
     display: flex;
     justify-content: space-evenly;
 }
@@ -99,6 +99,7 @@ table.GeneratedTable thead {
 a {
     color:rgb(252 211 77);
     text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
