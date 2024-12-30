@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    background-color: #1a1a1a;
+    background-color: rgb(20, 26, 31);
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -29,7 +29,7 @@ a {
     width: 350px;
     overflow: hidden;
     border-radius: 10px;
-    background-color: #333;
+    background-color: rgb(39, 46, 53);
     transition: transform 0.3s, box-shadow 0.3s;
     text-align: center;
 }
